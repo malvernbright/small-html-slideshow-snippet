@@ -1,5 +1,5 @@
 * {box-sizing: border-box}
-.mySlides1, .mySlides2 {display: none}
+.mySlides {display: none}
 img {vertical-align: middle;}
 
 /* Slideshow container */
